@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Débora</h1>
 
-Sou Bacharela em Estatística pela Universidade Federal do Ceará (UFC). Possuo experiência com análise de dados estatísticos acadêmicos e empresariais, além de experiência como cientista de dados com foco em Inteligência Artificial no Dell Lead, onde realizei a implementação de modelos de Machine Learning e Deep Learning para o Reconhecimento de Sinais em LIBRAS. Tenho conhecimento e vivência em Ciências de Dados, desenvolvimento de algoritmos de Machine Learning e Deep Learning, além de competência em Visão Computacional e programação em Python e R.
+I have a Bachelor's degree in Statistics from the Federal University of Ceará (UFC). I have a master's degree in Teleinformatics Engineering and am currently a PhD candidate in Teleinformatics Engineering at UFC. I have experience analyzing academic and business statistical data, as well as experience as a researcher and developer focused on Artificial Intelligence at Dell Lead, where I implemented Machine Learning and Deep Learning models for LIBRAS Sign Recognition. I have knowledge and experience in Data Science, development of Machine Learning and Deep Learning algorithms, as well as competence in Computer Vision and programming in Python and R.
 
-
-📌 Ciências de Dados;
+📌 Data Science;
 
 📌 Machine Learning;
 
 📌 Deep Learning;
 
-📌 Visão Computacional;
+📌 Computer Vision;
 
 📌 SQL;
 
