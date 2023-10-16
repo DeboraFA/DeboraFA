@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Débora</h1>
 
-Sou Bacharela em Estatística pela Universidade Federal do Ceará (UFC). Possuo experiência como cientista de dados com foco em Inteligência Artificial no Dell Lead, onde realizei a implementação de modelos de Machine Learning e Deep Learning para o Reconhecimento de Sinais em LIBRAS. Tenho conhecimento e vivência em Ciências de Dados, desenvolvimento de algoritmos de Machine Learning e Deep Learning, além de competência em Visão Computacional e programação em Python.
+Sou Bacharela em Estatística pela Universidade Federal do Ceará (UFC). Possuo experiência com análise de dados estatísticos acadêmicos e empresariais, além de experiência como cientista de dados com foco em Inteligência Artificial no Dell Lead, onde realizei a implementação de modelos de Machine Learning e Deep Learning para o Reconhecimento de Sinais em LIBRAS. Tenho conhecimento e vivência em Ciências de Dados, desenvolvimento de algoritmos de Machine Learning e Deep Learning, além de competência em Visão Computacional e programação em Python e R.
 
 
 📌 Ciências de Dados;
-
-📌 SQL;
 
 📌 Machine Learning;
 
 📌 Deep Learning;
 
 📌 Visão Computacional;
+
+📌 SQL;
 
 📌 GIT.
 
