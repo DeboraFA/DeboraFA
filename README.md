@@ -22,7 +22,7 @@ I have a Bachelor's degree in Statistics from the Federal University of Ceará (
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeboraFA&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-  ## Linguagens de programação, Frameworks e Bibliotecas:
+  ## Programming languages, frameworks and libraries:
   
 📌 Python, Scikit-learn, Numpy, Pandas, Matplotlib, Seaborn, Tensorflow, Keras, Opencv, MediaPipe, SQL;
 
