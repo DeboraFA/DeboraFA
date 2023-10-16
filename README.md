@@ -33,6 +33,19 @@ I have a Bachelor's degree in Statistics from the Federal University of Ceará (
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="40" height="40"/> </a> 
 <!-- RStudio -->  
 <a href="https://posit.co/" target="_blank" rel="noreferrer"> <img src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo.svg" alt="RStudio" width="40" height="40"/> </a>   
+<!-- ggplot2 -->
+<a href="https://ggplot2.tidyverse.org/" target="_blank" rel="noreferrer">
+  <img src="https://ggplot2.tidyverse.org/logo.png" alt="ggplot2" width="40" height="40"/>
+</a>
+<!-- tidyverse -->
+<a href="https://www.tidyverse.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.tidyverse.org/" alt="tidyverse" width="40" height="40"/>
+</a>
+<!-- LaTeX -->
+<a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.latex-project.org/" alt="LaTeX" width="40" height="40"/>
+</a>
+<!-- Scikit Learn -->  
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 <!--numpy-->  
 <a href="https://numpy.org/doc/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="numpy" width="40" height="40"/> </a> 
