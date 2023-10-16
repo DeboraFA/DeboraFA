@@ -32,7 +32,7 @@ I have a Bachelor's degree in Statistics from the Federal University of Ceará (
 <!-- R -->  
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="40" height="40"/> </a> 
 <!-- RStudio -->  
-<a href="https://posit.co/" target="_blank" rel="noreferrer"> <img src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-" alt="RStudio" width="40" height="40"/> </a>   
+<a href="https://posit.co/" target="_blank" rel="noreferrer"> <img src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo.svg" alt="RStudio" width="40" height="40"/> </a>   
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 <!--numpy-->  
 <a href="https://numpy.org/doc/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="numpy" width="40" height="40"/> </a> 
