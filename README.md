@@ -24,27 +24,11 @@ I have a Bachelor's degree in Statistics from the Federal University of Ceará (
 
   ## Programming languages, frameworks and libraries:
   
-📌 Python, R, RStudio, Scikit-learn, Numpy, Pandas, Matplotlib, Seaborn, Tensorflow, Keras, Opencv, MediaPipe, SQL;
+📌 Python, Scikit-learn, Numpy, Pandas, Matplotlib, Seaborn, Tensorflow, Keras, Opencv, MediaPipe, SQL, R, RStudio, ggplot2, LaTeX, Overleaf;
 
 <p align="center"> 
 <!-- python -->  
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<!-- R -->  
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="40" height="40"/> </a> 
-<!-- RStudio -->  
-<a href="https://posit.co/" target="_blank" rel="noreferrer"> <img src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo.svg" alt="RStudio" width="40" height="40"/> </a>   
-<!-- ggplot2 -->
-<a href="https://ggplot2.tidyverse.org/" target="_blank" rel="noreferrer">
-  <img src="https://ggplot2.tidyverse.org/logo.png" alt="ggplot2" width="40" height="40"/>
-</a>
-<!-- tidyverse -->
-<a href="https://www.tidyverse.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.tidyverse.org/" alt="tidyverse" width="40" height="40"/>
-</a>
-<!-- LaTeX -->
-<a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.latex-project.org/" alt="LaTeX" width="40" height="40"/>
-</a>
 <!-- Scikit Learn -->  
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 <!--numpy-->  
@@ -64,3 +48,19 @@ I have a Bachelor's degree in Statistics from the Federal University of Ceará (
 <!--postgresql-->
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="postgresql" height="40"/> </a> 
 </p>
+<!-- R -->  
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="40" height="40"/> </a> 
+<!-- RStudio -->  
+<a href="https://posit.co/" target="_blank" rel="noreferrer"> <img src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo.svg" alt="RStudio" width="40" height="40"/> </a>   
+<!-- ggplot2 -->
+<a href="https://ggplot2.tidyverse.org/" target="_blank" rel="noreferrer">
+  <img src="https://ggplot2.tidyverse.org/logo.png" alt="ggplot2" width="40" height="40"/>
+</a>
+<!-- LaTeX -->
+<a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/LaTeX_logo.png" alt="LaTeX" width="40" height="40"/>
+</a>
+<!-- Overleaf -->
+<a href="https://pt.overleaf.com/project/" target="_blank" rel="noreferrer">
+  <img src="https://images.ctfassets.net/nrgyaltdicpt/6DEXmiP0xGqamuwaKc0woS/9c21c4f5312c6870292c471ad3ecaa5e/overleaf_wide_colour_light_bg.svg" alt="Overleaf" width="40" height="40"/>
+</a>
