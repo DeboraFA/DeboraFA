@@ -24,13 +24,15 @@ I have a Bachelor's degree in Statistics from the Federal University of Ceará (
 
   ## Programming languages, frameworks and libraries:
   
-📌 Python, Scikit-learn, Numpy, Pandas, Matplotlib, Seaborn, Tensorflow, Keras, Opencv, MediaPipe, SQL, R, RStudio, ggplot2, LaTeX, Overleaf;
+📌 Python, Scikit-learn, Scikit-image, Numpy, Pandas, Matplotlib, Seaborn, Tensorflow, Keras, Opencv, MediaPipe, SQL, R, RStudio, ggplot2, LaTeX, Overleaf;
 
 <p align="center"> 
 <!-- python -->  
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <!-- Scikit Learn -->  
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
+<!-- Scikit Image -->  
+<a href="https://scikit-image.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Scikit-image_logo.png" alt="scikit_image" width="40" height="40"/> </a> 
 <!--numpy-->  
 <a href="https://numpy.org/doc/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="numpy" width="40" height="40"/> </a> 
 <!--pandas-->  
