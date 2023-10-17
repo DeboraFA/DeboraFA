@@ -47,7 +47,6 @@ I have a Bachelor's degree in Statistics from the Federal University of Ceará (
 <a href="https://cloud.google.com/bigquery?hl=pt-br" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg" alt="google_bigquery" height="40"/> </a> 
 <!--postgresql-->
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="postgresql" height="40"/> </a> 
-</p>
 <!-- R -->  
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="40" height="40"/> </a> 
 <!-- RStudio -->  
@@ -64,3 +63,4 @@ I have a Bachelor's degree in Statistics from the Federal University of Ceará (
 <a href="https://pt.overleaf.com/project/" target="_blank" rel="noreferrer">
   <img src="https://images.ctfassets.net/nrgyaltdicpt/6DEXmiP0xGqamuwaKc0woS/9c21c4f5312c6870292c471ad3ecaa5e/overleaf_wide_colour_light_bg.svg" alt="Overleaf" width="40" height="40"/>
 </a>
+</p>
