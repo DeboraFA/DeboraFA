@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Débora</h1>
 
-I am Bachelor's degree in Statistics from the Federal University of Ceará (UFC). I am a master's degree in Teleinformatics Engineering and I am a PhD candidate in Teleinformatics Engineering at UFC. I have experience analyzing academic and business statistical data, as well as experience as a researcher and developer focused on Artificial Intelligence at Dell Lead, where I implemented Machine Learning and Deep Learning models for LIBRAS Sign Recognition. I have knowledge and experience in Data Science, development of Machine Learning and Deep Learning algorithms, as well as competence in Computer Vision and programming in Python and R.
+I am Bachelor's degree in Statistics from the Federal University of Ceará (UFC). I am a master's degree in Teleinformatics Engineering and I am a PhD in Teleinformatics Engineering at UFC. I have experience analyzing academic and business statistical data, as well as experience as a researcher and developer focused on Artificial Intelligence. I have knowledge and experience in Data Science, development of Machine Learning and Deep Learning algorithms, as well as competence in Computer Vision and programming in Python and R.
 
 📌 Data Science;
 
